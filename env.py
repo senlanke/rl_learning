@@ -41,7 +41,7 @@ if __name__ == "__main__":
     print(f"初始状态: {state}")
     
     # 显示初始环境
-    # env.show()
+    env.show()
     
     # 测试一步
     action = 1  # 向下
